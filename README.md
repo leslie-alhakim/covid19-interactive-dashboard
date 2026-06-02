@@ -67,15 +67,15 @@ The dashboard was built using **Python Dash callbacks**, allowing dynamic filter
 
 ### Interactive Dashboard
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](Interactive%20Dashboard.png)
 
 ### Interactive Scatterplot
 
-![Scatterplot](scatterplot-preview.png)
+![Scatterplot](Interactive%20Scatterplot.png)
 
 ### Interactive Line Chart
 
-![Line Chart](line-chart-preview.png)
+![Line Chart](Interactive%20Line%20Chart.png)
 
 ---
 
